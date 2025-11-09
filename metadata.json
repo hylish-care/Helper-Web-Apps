@@ -1,0 +1,5 @@
+{
+  "name": "Document Text Extractor",
+  "description": "An AI-powered web application to extract text from uploaded documents. Simply upload an image of a document, click extract, and download the resulting text as a text file.",
+  "requestFramePermissions": []
+}
